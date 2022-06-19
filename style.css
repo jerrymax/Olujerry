@@ -6,7 +6,8 @@ nav{
     margin: 25px 10px;
     padding: 25px;
     overflow: hidden;
-    text-align: right;
+    text-align: center;
+   
 }
 nav a{
     color: gray;
