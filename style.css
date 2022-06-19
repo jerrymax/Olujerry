@@ -1,21 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&display=swap');
 
-/*navigatyion buttons*/
-nav{
-    overflow: hidden;
+
+grid-page{
+      overflow: hidden;
     text-align: center;
     font-size: 2em;
-   
-}
-nav a{
     color: gray;
     text-decoration: none;
     padding: 10px 30px;
     border-radius: 30px;
     font-family: 'Lexend Deca', sans-serif;
 }
-nav a:hover{
+grid-page a{
+    color: gray;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 30px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+grid-page a:hover{
     color: lightgrey;
 }
 
